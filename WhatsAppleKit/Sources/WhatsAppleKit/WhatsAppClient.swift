@@ -2,6 +2,7 @@ import Foundation
 import NIO
 import NIOSSL
 import CryptoSwift
+import QRCodeGenerator
 
 public class WhatsAppClient {
     private let eventLoopGroup: EventLoopGroup
