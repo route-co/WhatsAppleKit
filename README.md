@@ -22,7 +22,7 @@ A Swift package for interacting with WhatsApp Web, enabling programmatic access 
 Add the following to your `Package.swift` file:
 
 ```swift
-.package(url: "https://github.com/YourUsername/WhatsAppleKit.git", from: "1.0.0")
+.package(url: "https://github.com/route-co/WhatsAppleKit.git", from: "1.0.0")
 ```
 
 ## Usage
